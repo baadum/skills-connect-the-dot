@@ -20,7 +20,7 @@ _Useful tips when navigating through your repository._
 
 ## Finish
 
-_Congratulations friend, you've completed this course! :tada:_
+_Congratulations friend, you've completed this course! :tadam:_
 
 <img src="https://octodex.github.com/images/collabocats.jpg" alt=celebrate width=300 align=right>
 
